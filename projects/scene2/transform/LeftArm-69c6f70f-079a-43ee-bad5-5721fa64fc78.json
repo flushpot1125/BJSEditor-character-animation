@@ -1,0 +1,60 @@
+{
+	"tags": null,
+	"position": [
+		1.958632367404789e-8,
+		0.11889561265707016,
+		5.869486585652339e-7
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.7084434032440186,
+		-0.19116969406604767,
+		0.1602339744567871,
+		0.6602176427841187
+	],
+	"scaling": [
+		0.9999998807907104,
+		0.9999986290931702,
+		1
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "LeftArm",
+	"id": "69c6f70f-079a-43ee-bad5-5721fa64fc78",
+	"state": "",
+	"metadata": {
+		"gltf": {
+			"pointers": [
+				"/nodes/27"
+			]
+		}
+	},
+	"type": "TransformNode",
+	"parentId": "49397a2b-ac92-4434-b888-f6b2c2df7d5c",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

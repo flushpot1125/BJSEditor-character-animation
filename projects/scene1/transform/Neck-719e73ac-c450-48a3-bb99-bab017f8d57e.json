@@ -1,0 +1,60 @@
+{
+	"tags": null,
+	"position": [
+		-7.449779015900049e-9,
+		0.15557485818862915,
+		1.517074252888051e-7
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.09371114522218704,
+		0.014258933253586292,
+		0.017031129449605942,
+		0.9953516125679016
+	],
+	"scaling": [
+		0.9999999403953552,
+		0.9999998211860657,
+		1
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "Neck",
+	"id": "719e73ac-c450-48a3-bb99-bab017f8d57e",
+	"state": "",
+	"metadata": {
+		"gltf": {
+			"pointers": [
+				"/nodes/4"
+			]
+		}
+	},
+	"type": "TransformNode",
+	"parentId": "2184ba1a-c830-44b6-9d89-579cc93b37d3",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

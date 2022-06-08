@@ -1,0 +1,60 @@
+{
+	"tags": null,
+	"position": [
+		9.4603493039358e-8,
+		0.1488441526889801,
+		-1.1877676797666936e-7
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.2717672884464264,
+		-0.04180847853422165,
+		0.006625575013458729,
+		0.9614315629005432
+	],
+	"scaling": [
+		0.9999993443489075,
+		1,
+		1.0000007152557373
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "LeftToeBase",
+	"id": "b3700bd4-f5cc-4397-a5e5-c4626d942eb8",
+	"state": "",
+	"metadata": {
+		"gltf": {
+			"pointers": [
+				"/nodes/57"
+			]
+		}
+	},
+	"type": "TransformNode",
+	"parentId": "1f9a243a-76f6-4c98-9d3e-bb3ed67679ca",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

@@ -1,0 +1,60 @@
+{
+	"tags": null,
+	"position": [
+		1.49228995383055e-7,
+		0.02981254830956459,
+		3.879620180669008e-8
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.006657925434410572,
+		0.006906523834913969,
+		-0.022114574909210205,
+		0.99970942735672
+	],
+	"scaling": [
+		1.0000001192092896,
+		0.9999998807907104,
+		1.0000001192092896
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "RightHandRing4",
+	"id": "b93cda9f-a62e-4aeb-84e8-b9d63346068a",
+	"state": "",
+	"metadata": {
+		"gltf": {
+			"pointers": [
+				"/nodes/41"
+			]
+		}
+	},
+	"type": "TransformNode",
+	"parentId": "e2c1f657-d3c2-4dec-aead-584042a7f08f",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

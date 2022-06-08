@@ -1,0 +1,60 @@
+{
+	"tags": null,
+	"position": [
+		0.0953437089920044,
+		0.005193121265619993,
+		-0.003302316414192319
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		-0.04926220327615738,
+		-0.29965221881866455,
+		-0.9501612782478333,
+		0.07053720951080322
+	],
+	"scaling": [
+		1.0000396966934204,
+		0.9999999403953552,
+		1.0000033378601074
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "LeftUpLeg",
+	"id": "27ae542e-62b6-4035-84a3-6a610b9e02ec",
+	"state": "",
+	"metadata": {
+		"gltf": {
+			"pointers": [
+				"/nodes/60"
+			]
+		}
+	},
+	"type": "TransformNode",
+	"parentId": "470d8b64-9e07-4270-9376-f5793433cb68",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

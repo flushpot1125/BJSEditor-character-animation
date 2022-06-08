@@ -1,0 +1,60 @@
+{
+	"tags": null,
+	"position": [
+		-0.03913154453039169,
+		0.08981312811374664,
+		0.010543810203671455
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.7471021413803101,
+		0.09014467149972916,
+		-0.008338195271790028,
+		0.6585156917572021
+	],
+	"scaling": [
+		1.0000003576278687,
+		1.0000001192092896,
+		1.0000001192092896
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "RightHandPinky1",
+	"id": "ebeff535-7752-4ee8-a4c0-c9c16b72eee9",
+	"state": "",
+	"metadata": {
+		"gltf": {
+			"pointers": [
+				"/nodes/48"
+			]
+		}
+	},
+	"type": "TransformNode",
+	"parentId": "8b864ddc-0ef2-44e8-8dc9-edb83902df6a",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

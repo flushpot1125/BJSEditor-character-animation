@@ -1,0 +1,65 @@
+{
+	"tags": null,
+	"position": [
+		32.296302795410156,
+		0,
+		-63.19137954711914
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"scaling": [
+		1,
+		1,
+		1
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "BlockManager",
+	"id": "800735aa-61be-480d-9f81-85adc1726b37",
+	"state": "",
+	"metadata": {
+		"script": {
+			"name": "src/scenes/scene/block.ts",
+			"properties": {
+				"_leftKey": {
+					"type": "KeyMap",
+					"value": 119
+				},
+				"_rightKey": {
+					"type": "KeyMap",
+					"value": 102
+				},
+				"_impluseForceFactor": {
+					"type": "number",
+					"value": 300000
+				}
+			}
+		}
+	},
+	"type": "TransformNode",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": false
+}

@@ -1,0 +1,60 @@
+{
+	"tags": null,
+	"position": [
+		-1.6160619509264507e-7,
+		0.4581737220287323,
+		1.0735179856169452e-8
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		-0.30579817295074463,
+		0.06064296141266823,
+		0.003973162733018398,
+		0.9501548409461975
+	],
+	"scaling": [
+		1.000000238418579,
+		1,
+		0.9999995827674866
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "RightLeg",
+	"id": "0c67099b-4d28-4990-a77e-3cf071973ae8",
+	"state": "",
+	"metadata": {
+		"gltf": {
+			"pointers": [
+				"/nodes/64"
+			]
+		}
+	},
+	"type": "TransformNode",
+	"parentId": "21ed1a1e-ede2-4b27-9bc4-d7fb5712efec",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

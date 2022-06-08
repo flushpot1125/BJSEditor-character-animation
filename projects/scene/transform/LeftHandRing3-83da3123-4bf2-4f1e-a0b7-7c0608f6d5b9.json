@@ -1,0 +1,60 @@
+{
+	"tags": null,
+	"position": [
+		4.006326648209324e-8,
+		0.036163173615932465,
+		-1.8962482783990708e-7
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.34340140223503113,
+		0.024767408147454262,
+		-0.0627390444278717,
+		0.9367635250091553
+	],
+	"scaling": [
+		0.999999463558197,
+		1.0000009536743164,
+		1.000000238418579
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "LeftHandRing3",
+	"id": "83da3123-4bf2-4f1e-a0b7-7c0608f6d5b9",
+	"state": "",
+	"metadata": {
+		"gltf": {
+			"pointers": [
+				"/nodes/18"
+			]
+		}
+	},
+	"type": "TransformNode",
+	"parentId": "fb1438a1-4dee-422a-a9b5-a10f78bda447",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

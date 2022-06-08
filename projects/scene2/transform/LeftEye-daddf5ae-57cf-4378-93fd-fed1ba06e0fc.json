@@ -1,0 +1,60 @@
+{
+	"tags": null,
+	"position": [
+		0.031682588160037994,
+		0.087424635887146,
+		0.08048094809055328
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		-0.003611026331782341,
+		-2.4351354266372027e-9,
+		1.4200289555343915e-10,
+		0.9999935030937195
+	],
+	"scaling": [
+		1.0000001192092896,
+		0.9999997019767761,
+		0.9999995827674866
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "LeftEye",
+	"id": "daddf5ae-57cf-4378-93fd-fed1ba06e0fc",
+	"state": "",
+	"metadata": {
+		"gltf": {
+			"pointers": [
+				"/nodes/1"
+			]
+		}
+	},
+	"type": "TransformNode",
+	"parentId": "47c153f4-ac59-4e19-91c9-20b163e6963e",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

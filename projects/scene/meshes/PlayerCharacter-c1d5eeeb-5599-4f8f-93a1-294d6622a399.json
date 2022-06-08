@@ -1,0 +1,115 @@
+{
+	"meshes": [
+		{
+			"name": "PlayerCharacter",
+			"id": "c1d5eeeb-5599-4f8f-93a1-294d6622a399",
+			"uniqueId": 382,
+			"type": "Mesh",
+			"position": [
+				0.5714623332023621,
+				0.05000000074505806,
+				245.09288024902344
+			],
+			"rotationQuaternion": [
+				0,
+				1,
+				0,
+				0
+			],
+			"scaling": [
+				20,
+				20,
+				20
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": true,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": null,
+			"isUnIndexed": false,
+			"metadata": {
+				"basePoseMatrix": {
+					"0": -1,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 1,
+					"6": 0,
+					"7": 0,
+					"8": 0,
+					"9": 0,
+					"10": 1,
+					"11": 0,
+					"12": 0,
+					"13": 0,
+					"14": 0,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "__root__",
+					"name": "__root__",
+					"sceneFileName": "meshes/character_1/main_characters_v7.glb"
+				},
+				"isPickable": true,
+				"script": {
+					"name": "src/scenes/scene/character.ts",
+					"properties": {
+						"_leftKey": {
+							"type": "KeyMap",
+							"value": 74
+						},
+						"_rightKey": {
+							"type": "KeyMap",
+							"value": 75
+						},
+						"_impluseForceFactor": {
+							"type": "number",
+							"value": 2000
+						}
+					}
+				},
+				"renderingGroupId": 0
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.5,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true
+		}
+	],
+	"materials": [],
+	"multiMaterials": [],
+	"lods": []
+}

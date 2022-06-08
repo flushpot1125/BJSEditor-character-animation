@@ -1,0 +1,60 @@
+{
+	"tags": null,
+	"position": [
+		-0.04713546112179756,
+		0.141147643327713,
+		-0.006255073007196188
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.5141749382019043,
+		-0.46259137988090515,
+		0.19894203543663025,
+		0.6943021416664124
+	],
+	"scaling": [
+		1,
+		0.9999998211860657,
+		1.0000001192092896
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "RightShoulder",
+	"id": "4e7597b4-816d-49d9-91d6-eec692db660a",
+	"state": "",
+	"metadata": {
+		"gltf": {
+			"pointers": [
+				"/nodes/52"
+			]
+		}
+	},
+	"type": "TransformNode",
+	"parentId": "2184ba1a-c830-44b6-9d89-579cc93b37d3",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

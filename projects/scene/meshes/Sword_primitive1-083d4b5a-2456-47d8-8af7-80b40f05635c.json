@@ -1,0 +1,153 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Sword_primitive1",
+			"id": "083d4b5a-2456-47d8-8af7-80b40f05635c",
+			"uniqueId": 461,
+			"type": "Mesh",
+			"position": [
+				0,
+				0,
+				0
+			],
+			"rotation": [
+				0,
+				0,
+				0
+			],
+			"scaling": [
+				1,
+				1,
+				1
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": 0,
+			"parentId": "ce506ba2-9f69-4a8c-b3c9-31fa031d582a",
+			"isUnIndexed": false,
+			"geometryId": "44470659-85ed-490c-9205-71f8e15866d0",
+			"subMeshes": null,
+			"materialId": "4b7bd5e3-5304-4dcf-85d8-b5997961576c",
+			"metadata": {
+				"gltf": {
+					"pointers": [
+						"/meshes/9/primitives/1"
+					]
+				},
+				"basePoseMatrix": {
+					"0": -32.04705810546875,
+					"1": 0.7851556539535522,
+					"2": 0.16773010790348053,
+					"3": 0,
+					"4": -1.908249855041504,
+					"5": -13.185866355895996,
+					"6": -2.8168516159057617,
+					"7": 0,
+					"8": 1.0298786889961775e-7,
+					"9": 38.702178955078125,
+					"10": -0.9631066918373108,
+					"11": 0,
+					"12": 15.718466758728027,
+					"13": 18.125473022460938,
+					"14": 2.206753969192505,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "Sword_primitive1",
+					"name": "Sword_primitive1",
+					"sceneFileName": "meshes/character_1/main_characters_v7.glb"
+				},
+				"isPickable": true
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/44470659-85ed-490c-9205-71f8e15866d0.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				3.57222843170166,
+				1.0766485929489136,
+				-0.7357267141342163
+			],
+			"boundingBoxMinimum": [
+				-3.919013023376465,
+				-1.0766502618789673,
+				-0.8812329769134521
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 276849,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 276849,
+					"stride": 3,
+					"offset": 1107396,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 184566,
+					"stride": 2,
+					"offset": 2214792,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 193536,
+					"stride": 1,
+					"offset": 2953056,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 3727200,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

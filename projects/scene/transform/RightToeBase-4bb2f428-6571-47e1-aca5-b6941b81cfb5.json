@@ -1,0 +1,60 @@
+{
+	"tags": null,
+	"position": [
+		2.590139445146633e-7,
+		0.14884407818317413,
+		7.027868775821844e-8
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.2790428698062897,
+		0.038543712347745895,
+		-0.00962467584758997,
+		0.9594565629959106
+	],
+	"scaling": [
+		0.9999989867210388,
+		0.9999997019767761,
+		0.9999998807907104
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "RightToeBase",
+	"id": "4bb2f428-6571-47e1-aca5-b6941b81cfb5",
+	"state": "",
+	"metadata": {
+		"gltf": {
+			"pointers": [
+				"/nodes/62"
+			]
+		}
+	},
+	"type": "TransformNode",
+	"parentId": "1096d406-52de-434e-97c5-a747a4044745",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

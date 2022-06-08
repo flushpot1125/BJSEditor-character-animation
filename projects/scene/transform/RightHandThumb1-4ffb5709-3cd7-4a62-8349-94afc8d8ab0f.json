@@ -1,0 +1,60 @@
+{
+	"tags": null,
+	"position": [
+		0.03235602751374245,
+		0.02635185420513153,
+		0.005173741839826107
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.08385148644447327,
+		-0.10510054975748062,
+		-0.3184346556663513,
+		0.9383614659309387
+	],
+	"scaling": [
+		1,
+		1.0000001192092896,
+		0.9999991059303284
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "RightHandThumb1",
+	"id": "4ffb5709-3cd7-4a62-8349-94afc8d8ab0f",
+	"state": "",
+	"metadata": {
+		"gltf": {
+			"pointers": [
+				"/nodes/32"
+			]
+		}
+	},
+	"type": "TransformNode",
+	"parentId": "f5241ce6-3f76-4370-882d-b98ec58a79ba",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

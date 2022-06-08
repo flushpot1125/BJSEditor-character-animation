@@ -1,0 +1,60 @@
+{
+	"tags": null,
+	"position": [
+		-0.09534399956464767,
+		0.0051934788934886456,
+		-0.0032923477701842785
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		-0.1056896448135376,
+		0.15067537128925323,
+		0.9788632988929749,
+		0.08918240666389465
+	],
+	"scaling": [
+		1.000034213066101,
+		0.9999999403953552,
+		1.0000028610229492
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "RightUpLeg",
+	"id": "18c312e8-26e7-4352-b562-1b0a93cbe31e",
+	"state": "",
+	"metadata": {
+		"gltf": {
+			"pointers": [
+				"/nodes/65"
+			]
+		}
+	},
+	"type": "TransformNode",
+	"parentId": "30ba92a8-3a0d-4070-b3db-f72c65e78814",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

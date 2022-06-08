@@ -1,0 +1,60 @@
+{
+	"tags": null,
+	"position": [
+		-2.3139452309806074e-7,
+		0.11889582127332687,
+		6.458994761260328e-8
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.7014528512954712,
+		0.2975931465625763,
+		-0.15190938115119934,
+		0.6295441389083862
+	],
+	"scaling": [
+		0.9999998807907104,
+		0.9999997615814209,
+		0.9999995231628418
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "RightArm",
+	"id": "c810333f-1d79-41a1-9e69-cdd04b3cc677",
+	"state": "",
+	"metadata": {
+		"gltf": {
+			"pointers": [
+				"/nodes/51"
+			]
+		}
+	},
+	"type": "TransformNode",
+	"parentId": "4e7597b4-816d-49d9-91d6-eec692db660a",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

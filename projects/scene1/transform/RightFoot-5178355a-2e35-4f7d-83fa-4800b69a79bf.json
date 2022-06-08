@@ -1,0 +1,60 @@
+{
+	"tags": null,
+	"position": [
+		-2.559939673574263e-7,
+		0.44385915994644165,
+		-9.767690656303785e-9
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.6207101345062256,
+		0.016539812088012695,
+		0.04765736684203148,
+		0.7824156284332275
+	],
+	"scaling": [
+		1,
+		0.9999997019767761,
+		0.9999991655349731
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "RightFoot",
+	"id": "5178355a-2e35-4f7d-83fa-4800b69a79bf",
+	"state": "",
+	"metadata": {
+		"gltf": {
+			"pointers": [
+				"/nodes/63"
+			]
+		}
+	},
+	"type": "TransformNode",
+	"parentId": "0c67099b-4d28-4990-a77e-3cf071973ae8",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

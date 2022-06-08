@@ -1,0 +1,60 @@
+{
+	"tags": null,
+	"position": [
+		2.2165453117395373e-7,
+		0.0345623753964901,
+		6.425089793538064e-8
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.02380390092730522,
+		-0.022468827664852142,
+		0.0016420397441834211,
+		0.9994627833366394
+	],
+	"scaling": [
+		0.9999997615814209,
+		0.9999999403953552,
+		0.9999997019767761
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "RightHandMiddle4",
+	"id": "97585484-8e0b-4a76-88e5-238b283d7d9a",
+	"state": "",
+	"metadata": {
+		"gltf": {
+			"pointers": [
+				"/nodes/37"
+			]
+		}
+	},
+	"type": "TransformNode",
+	"parentId": "44009e75-efdd-4aea-bc8f-3d75f0400e48",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

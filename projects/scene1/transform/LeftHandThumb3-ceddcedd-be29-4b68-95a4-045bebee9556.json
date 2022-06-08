@@ -1,0 +1,60 @@
+{
+	"tags": null,
+	"position": [
+		2.4064692638603447e-7,
+		0.030486728996038437,
+		-9.383334997892234e-9
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.2817169725894928,
+		0.41958802938461304,
+		-0.4140111207962036,
+		0.7570840716362
+	],
+	"scaling": [
+		0.9999995231628418,
+		0.9999998807907104,
+		0.9999992251396179
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "LeftHandThumb3",
+	"id": "ceddcedd-be29-4b68-95a4-045bebee9556",
+	"state": "",
+	"metadata": {
+		"gltf": {
+			"pointers": [
+				"/nodes/6"
+			]
+		}
+	},
+	"type": "TransformNode",
+	"parentId": "acd63650-92ce-4d75-bc02-583cf4723e59",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

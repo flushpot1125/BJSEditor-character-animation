@@ -1,0 +1,60 @@
+{
+	"tags": null,
+	"position": [
+		-3.0379577964367854e-8,
+		0.0281522274017334,
+		3.37172764375282e-7
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.6281195282936096,
+		-0.1646023839712143,
+		-0.08473888784646988,
+		0.7557719945907593
+	],
+	"scaling": [
+		0.9999999403953552,
+		0.9999991059303284,
+		0.9999992847442627
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "LeftHandPinky2",
+	"id": "94c58c64-28aa-4d57-af6a-3c0311162004",
+	"state": "",
+	"metadata": {
+		"gltf": {
+			"pointers": [
+				"/nodes/23"
+			]
+		}
+	},
+	"type": "TransformNode",
+	"parentId": "93705270-ed1e-46af-a603-0abf15846873",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

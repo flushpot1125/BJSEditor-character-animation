@@ -1,0 +1,60 @@
+{
+	"tags": null,
+	"position": [
+		-3.983538121588026e-8,
+		0.0446782186627388,
+		1.9362067504857805e-9
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.3977482318878174,
+		-0.022547157481312752,
+		0.022132012993097305,
+		0.9169505834579468
+	],
+	"scaling": [
+		0.9999995827674866,
+		0.9999998807907104,
+		1.0000004768371582
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "LeftHandIndex2",
+	"id": "aa6c4de1-1386-48b1-976f-b07049baaef4",
+	"state": "",
+	"metadata": {
+		"gltf": {
+			"pointers": [
+				"/nodes/11"
+			]
+		}
+	},
+	"type": "TransformNode",
+	"parentId": "79967b45-e49c-4681-ad1b-24b4704a4f08",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

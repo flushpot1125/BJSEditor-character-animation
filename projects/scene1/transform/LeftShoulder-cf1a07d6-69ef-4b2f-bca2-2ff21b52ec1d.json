@@ -1,0 +1,60 @@
+{
+	"tags": null,
+	"position": [
+		0.04713558778166771,
+		0.14114807546138763,
+		-0.006255096755921841
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.5336463451385498,
+		0.46780431270599365,
+		-0.3042793869972229,
+		0.6354485154151917
+	],
+	"scaling": [
+		0.9999995827674866,
+		0.9999995827674866,
+		1
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "LeftShoulder",
+	"id": "cf1a07d6-69ef-4b2f-bca2-2ff21b52ec1d",
+	"state": "",
+	"metadata": {
+		"gltf": {
+			"pointers": [
+				"/nodes/28"
+			]
+		}
+	},
+	"type": "TransformNode",
+	"parentId": "2184ba1a-c830-44b6-9d89-579cc93b37d3",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

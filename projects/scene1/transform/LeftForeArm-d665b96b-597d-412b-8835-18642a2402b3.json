@@ -1,0 +1,60 @@
+{
+	"tags": null,
+	"position": [
+		-6.217328518687282e-8,
+		0.28512904047966003,
+		1.4624708910560003e-7
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.04164207726716995,
+		0.037639718502759933,
+		0.36588814854621887,
+		0.9289644956588745
+	],
+	"scaling": [
+		0.9999992251396179,
+		1.0000003576278687,
+		1.0000004768371582
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "LeftForeArm",
+	"id": "d665b96b-597d-412b-8835-18642a2402b3",
+	"state": "",
+	"metadata": {
+		"gltf": {
+			"pointers": [
+				"/nodes/26"
+			]
+		}
+	},
+	"type": "TransformNode",
+	"parentId": "5ef8d686-a0e1-40bb-b601-6b6028e00c81",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

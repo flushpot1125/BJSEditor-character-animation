@@ -1,0 +1,60 @@
+{
+	"tags": null,
+	"position": [
+		-1.1068188854324035e-7,
+		0.25197190046310425,
+		-2.1543290529280057e-7
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.05165921896696091,
+		0.036737360060214996,
+		-0.11026322096586227,
+		0.991878867149353
+	],
+	"scaling": [
+		0.9999992847442627,
+		1,
+		0.9999993443489075
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "RightHand",
+	"id": "f16b6524-b082-4fa0-96e3-35a09e36a63f",
+	"state": "",
+	"metadata": {
+		"gltf": {
+			"pointers": [
+				"/nodes/49"
+			]
+		}
+	},
+	"type": "TransformNode",
+	"parentId": "bf27b18a-412a-40c2-8d67-7ac882ed34f8",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

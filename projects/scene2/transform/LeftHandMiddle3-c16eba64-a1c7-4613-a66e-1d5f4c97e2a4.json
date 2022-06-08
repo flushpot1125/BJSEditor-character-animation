@@ -1,0 +1,60 @@
+{
+	"tags": null,
+	"position": [
+		-7.456286255091982e-8,
+		0.03540737181901932,
+		2.7943741542912903e-7
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.17280209064483643,
+		-0.03374948352575302,
+		0.01117042824625969,
+		0.9843147993087769
+	],
+	"scaling": [
+		0.9999997019767761,
+		0.9999995231628418,
+		0.999999463558197
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "LeftHandMiddle3",
+	"id": "c16eba64-a1c7-4613-a66e-1d5f4c97e2a4",
+	"state": "",
+	"metadata": {
+		"gltf": {
+			"pointers": [
+				"/nodes/14"
+			]
+		}
+	},
+	"type": "TransformNode",
+	"parentId": "07bfc3d0-ae79-45e6-ba49-939f14af6d0b",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}
